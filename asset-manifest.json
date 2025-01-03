@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/stock-tracker/static/css/main.ac83769a.css",
-    "main.js": "/stock-tracker/static/js/main.0a4341b6.js",
-    "index.html": "/stock-tracker/index.html",
-    "main.ac83769a.css.map": "/stock-tracker/static/css/main.ac83769a.css.map",
-    "main.0a4341b6.js.map": "/stock-tracker/static/js/main.0a4341b6.js.map"
+    "main.css": "./static/css/main.ac83769a.css",
+    "main.js": "./static/js/main.a94f2917.js",
+    "index.html": "./index.html",
+    "main.ac83769a.css.map": "./static/css/main.ac83769a.css.map",
+    "main.a94f2917.js.map": "./static/js/main.a94f2917.js.map"
   },
   "entrypoints": [
     "static/css/main.ac83769a.css",
-    "static/js/main.0a4341b6.js"
+    "static/js/main.a94f2917.js"
   ]
 }
